@@ -1,5 +1,2 @@
-def main():
+def print_hello():
     print("hello docker!")
-
-if __name__ == "__main__":
-    main()
