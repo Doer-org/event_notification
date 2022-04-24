@@ -1,7 +1,7 @@
 import sys
 import settings
 from hello import print_hello
-from discord_bot import call_discord_bot
+# from discord_bot import call_discord_bot
 
 # main関数
 def main():
